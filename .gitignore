@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+data/
+*.csv
+*.xlsx
+*.parquet
+
+outputs/
+models/
+
+.env
+venv/
+conda-env/
