@@ -63,10 +63,6 @@ Flight_demand_Prediction/
 
 ---
 
-## Results
-The forecasting models capture key demand trends and seasonal patterns in flight data. The results demonstrate how classical time-series methods can be applied effectively for demand prediction problems in the aviation domain.
-
----
 
 
 ## How to Run the Project
