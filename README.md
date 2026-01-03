@@ -64,10 +64,3 @@ Flight_demand_Prediction/
 ---
 
 
-
-## How to Run the Project
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ramyaredi03/Flight_demand_Prediction.git
-
